@@ -2,6 +2,8 @@
 
 ## MÓDULO 1 (~45min) - O APRENDIZADO ANTES DO APRENDIZADO [DE MÁQUINA]
 
+### AULA 0 (~3min) - Apresentação - Thiago Rossi
+
 ### AULA 1 (~3min) - Panorama geral do que iremos aprender no curso
 
 ### AULA 2 (~15min) - O que é Machine Learning e suas aplicações
