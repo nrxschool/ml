@@ -2,7 +2,7 @@
 
 ## MÓDULO 1 (~45min) - O APRENDIZADO ANTES DO APRENDIZADO [DE MÁQUINA]
 
-### AULA 0 (~3min) - Apresentação - Thiago Rossi
+### [AULA](https://github.com/nrxschool/ml/blob/main/ML%20-%20Aula%200.pdf) 0 (~3min) - Apresentação - Thiago Rossi
 
 ### AULA 1 (~3min) - Panorama geral do que iremos aprender no curso
 
