@@ -2,28 +2,31 @@
 
 ## MÓDULO 1 (~45min) - O APRENDIZADO ANTES DO APRENDIZADO [DE MÁQUINA]
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/ML%20-%20Aula%200.pdf) 0 (~3min) - Apresentação - Thiago Rossi
+### [AULA 0](https://github.com/nrxschool/ml/blob/main/ML%20-%20Aula%200.pdf) (~3min) - Apresentação - Thiago Rossi
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/Apresenta%C3%A7%C3%A3o-M%C3%B3dulo1-Aulas3-4-5.pdf) 1 (~3min) - Panorama geral do que iremos aprender no curso
+### [AULA 1](https://github.com/nrxschool/ml/blob/main/Apresenta%C3%A7%C3%A3o-M%C3%B3dulo1-Aulas3-4-5.pdf) (~3min) - Panorama geral do que iremos aprender no curso
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/Apresenta%C3%A7%C3%A3o-M%C3%B3dulo1-Aulas3-4-5.pdf) 2 (~15min) - O que é Machine Learning e suas aplicações
+### [AULA 2](https://github.com/nrxschool/ml/blob/main/Apresenta%C3%A7%C3%A3o-M%C3%B3dulo1-Aulas3-4-5.pdf) (~15min) - O que é Machine Learning e suas aplicações
 - Tópico 1: Apresentação do histórico, inverno e verão das IAs
 - Tópico 2: Casos de uso práticos
 - Tópico 3: Diferenças entre os tipos de aprendizado (Machine Learning, Deep Learning, Aprendizados Supervisionado e Não-Supervisionado, outros)
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Aula3-IntroPy-ML.ipynb) 3 (~15min) - Introdução ao Python para Machine Learning
+### [AULA 3](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Aula3-IntroPy-ML.ipynb) (~15min) - Introdução ao Python para Machine Learning
 - Tópico 1: Ambiente de desenvolvimento (Google Colab, Anaconda)
 - Tópico 2: Sintaxe básica
 - Tópico 3: Tipos de dados
 - Tópico 4: Variáveis e operações
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Aula4-Ferramentas-e-Bibliotecas.ipynb) 4 (~15min) - Ferramentas e bibliotecas essenciais para Machine Learning (Revisão de Python)
+### [AULA 4](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Aula4-Ferramentas-e-Bibliotecas.ipynb) (~15min) - Ferramentas e bibliotecas essenciais para Machine Learning (Revisão de Python)
 - Tópico 1: Jupyter Notebooks
 - Tópico 2: Pandas
 - Tópico 3: NumPy
 - Tópico 4: Matplotlib
 
-### [AULA](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Exerc%C3%ADcio-Final.ipynb) 5 (~20min) - Projeto de Conclusão do Módulo
+### [AULA 5](https://github.com/nrxschool/ml/blob/main/M%C3%B3dulo1-Exerc%C3%ADcio-Final.ipynb) (~20min) - Projeto de Conclusão do Módulo
+- Tópico 1: Criação de DataFrame usando random
+- Tópico 2: Análise Exploratória dos Dados
+- Tópico 3: Visualização dos Dados e Relatório
 
 ## MÓDULO 2 (~80min) - Estatística para Machine Learning
 
