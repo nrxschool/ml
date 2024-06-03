@@ -1,6 +1,6 @@
 # ML (Machine Learnig) Curso 
 
-## MÓDULO 1 (~45min) - O APRENDIZADO ANTES DO APRENDIZADO [DE MÁQUINA]
+## MÓDULO 1 (~70min) - O APRENDIZADO ANTES DO APRENDIZADO [DE MÁQUINA]
 
 ### [AULA 0](https://github.com/nrxschool/ml/blob/main/ML%20-%20Aula%200.pdf) (~3min) - Apresentação - Thiago Rossi
 
