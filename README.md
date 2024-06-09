@@ -44,6 +44,11 @@
 - Tópico 1: Testes de hipóteses
 - Tópico 2: Correlação e regressão linear
 
+### AULA 4 (~20min) - Projeto de Conclusão do Módulo
+- Tópico 1: Limpando os dados do dataframe
+- Tópico 2: Dados nulos ou NA, o que fazer?
+- Tópico 3: ANOVA
+
 ## MÓDULO 3 (~150min) - Algoritmos de Machine Learning Supervisionado
 
 ### Aula 1 (~20min) - Regressão Linear
