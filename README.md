@@ -28,7 +28,7 @@
 - Tópico 2: Análise Exploratória dos Dados
 - Tópico 3: Visualização dos Dados e Relatório
 
-## MÓDULO 2 (~80min) - Estatística para Machine Learning
+## [MÓDULO 2](https://github.com/nrxschool/ml/blob/main/ML%20-%20M%C3%B3dulo%202.pdf) (~80min) - Estatística para Machine Learning
 
 ### AULA 1 (~30min) - Revisão de Conceitos Estatísticos Básicos
 - Tópico 1: Medidas de tendência central
@@ -49,7 +49,7 @@
 - Tópico 2: Análises de centralidade e dispersão
 - Tópico 3: ANOVA
 
-## MÓDULO 3 (~150min) - Algoritmos de Machine Learning Supervisionado
+## [MÓDULO 3](https://github.com/nrxschool/ml/blob/main/ML%20-%20M%C3%B3dulo%203.pdf) (~150min) - Algoritmos de Machine Learning Supervisionado
 
 ### Aula 1 (~20min) - Regressão Linear
 - Tópico 1: Modelo matemático
@@ -83,7 +83,7 @@
 
 ### Aula 7 (~30min) - Projeto Guiado: Como escolher o algoritmo certo para um projeto de Machine Learning
 
-## MÓDULO 4 (~60min) - Machine Learning Não Supervisionado
+## [MÓDULO 4](https://github.com/nrxschool/ml/blob/main/ML%20-%20M%C3%B3dulo%204.pdf) (~60min) - Machine Learning Não Supervisionado
 
 ### Aula 1 (~15min) - Agrupamento (Clustering) 1
 - Tópico 1: K-means
@@ -97,7 +97,7 @@
 ### Aula 4 (~15min) - Redução de Dimensionalidade 2
 - Tópico 1: T-Distributed Stochastic Neighbor Embedding (t-SNE)
 
-## MÓDULO 5 (~180min) - Projetos (Project-Based Learning)
+## [MÓDULO 5](https://github.com/nrxschool/ml/blob/main/ML%20-%20M%C3%B3dulo%205.pdf) (~180min) - Projetos (Project-Based Learning)
 
 ### Aula 1 (~15min) - Projeto 1: Previsão de preços de casas com Regressão Linear
 - Coleta e pré-processamento de dados
